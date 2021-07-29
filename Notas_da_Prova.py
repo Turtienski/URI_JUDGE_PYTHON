@@ -1,5 +1,3 @@
-
-
 def convert(nota_str):
     nota = int(nota_str)
     if nota == 0:
