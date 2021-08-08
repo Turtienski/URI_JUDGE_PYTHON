@@ -50,7 +50,7 @@ Seu programa deve imprimir, na saída padrão, uma letra (A, B, C, D, ou E em ma
 
 <tr>
 
-<td>Exemplos de Entrada</td>ß
+<td>Exemplos de Entrada</td>
 
 <td>Exemplos de Saída</td>
 
