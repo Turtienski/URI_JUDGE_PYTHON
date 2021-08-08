@@ -50,7 +50,7 @@ Seu programa deve imprimir, na saída padrão, uma letra (A, B, C, D, ou E em ma
 
 <tr>
 
-<td>Exemplos de Entrada</td>
+<td>Exemplos de Entrada</td>ß
 
 <td>Exemplos de Saída</td>
 
@@ -136,4 +136,3 @@ OBI - Olimpíada Brasileira de Informática 2009 Fase 1 Nível 2
 
 </div>
 
-<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-28047757-1');</script> <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-28047757-1');</script> <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-28047757-1');</script>
