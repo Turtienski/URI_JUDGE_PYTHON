@@ -44,11 +44,11 @@ Seu programa deve imprimir, na saída padrão, uma letra (A, B, C, D, ou E em ma
 
 </div>
 
-| Exemplos de Entrada | Exemplos de Saída |   |   |   |
-|:-------------------:|:-----------------:|---|---|---|
-| 12                  | D                 |   |   |   |
-| 87                  | A                 |   |   |   |
-| 0                   | E                 |   |   |   |
+| Exemplos de Entrada | Exemplos de Saída | 
+|:-------------------:|:-----------------:|
+| 12                  | D                 |
+| 87                  | A                 |
+| 0                   | E                 |   
 
 OBI - Olimpíada Brasileira de Informática 2009 Fase 1 Nível 2
 
