@@ -88,7 +88,6 @@ D
 
 <tr>
 
-<td class="division">
 
 87
 
