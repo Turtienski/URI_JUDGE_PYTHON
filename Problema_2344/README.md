@@ -44,92 +44,11 @@ Seu programa deve imprimir, na saída padrão, uma letra (A, B, C, D, ou E em ma
 
 </div>
 
-<table>
-
-<thead>
-
-<tr>
-
-<td>Exemplos de Entrada</td>
-
-<td>Exemplos de Saída</td>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td class="division">
-
-12
-
-</td>
-
-<td>
-
-D
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<table>
-
-<thead></thead>
-
-<tbody>
-
-<tr>
-
-
-87
-
-</td>
-
-<td>
-
-A
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<table>
-
-<thead></thead>
-
-<tbody>
-
-<tr>
-
-<td class="division">
-
-0
-
-</td>
-
-<td>
-
-E
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+| Exemplos de Entrada | Exemplos de Saída |   |   |   |
+|:-------------------:|:-----------------:|---|---|---|
+| 12                  | D                 |   |   |   |
+| 87                  | A                 |   |   |   |
+| 0                   | E                 |   |   |   |
 
 OBI - Olimpíada Brasileira de Informática 2009 Fase 1 Nível 2
 
