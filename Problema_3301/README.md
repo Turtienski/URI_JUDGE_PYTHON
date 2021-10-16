@@ -32,95 +32,11 @@ A entrada consiste em vários casos de teste. Cada caso contém três valores in
 
 Para cada caso de teste imprima o nome do sobrinho do meio, com letras minúsculas.
 
-</div>
-
-<table>
-
-<thead>
-
-<tr>
-
-<td>Exemplos de Entrada</td>
-
-<td>Exemplos de Saída</td>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td class="division">
-
-5 6 7
-
-</td>
-
-<td>
-
-zezinho
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<table>
-
-<thead></thead>
-
-<tbody>
-
-<tr>
-
-<td class="division">
-
-7 5 6
-
-</td>
-
-<td>
-
-luisinho
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<table>
-
-<thead></thead>
-
-<tbody>
-
-<tr>
-
-<td class="division">
-
-6 7 5
-
-</td>
-
-<td>
-
-huguinho
-
-</td>
-
-</tr>
-
-</tbody>
-
-</table>
+| Exemplos de Entrada | Exemplos de Saída |
+|:-------------------:|:-----------------:|
+| 5 6 7               | zezinho           |
+| 7 5 6               | luisinho          |
+| 6 7 5               | huguinho          |
 
 11ª Olimpíada Interna de Programação do IFSULDEMINAS - OLIP 2021
 
