@@ -1,4 +1,4 @@
-# bee 2493 - Jogo do Operador
+# Jogo do Operador
 
 Por João Marcos Salvanini Bellini de Moraes, IFSULDEMINAS ![BR](https://resources.beecrowd.com.br/gallery/images/flags/br.gif) Brazil
 
