@@ -16,34 +16,8 @@ A entrada é composta por um inteiro **T** (2 ≤ **T** ≤ 50) que indica a qua
 
 Para cada caso de teste, se todos os jogadores passarem, imprima "You Shall All Pass!"; se nenhum jogador passar, imprima "None Shall Pass!"; caso contrário, imprima, em ordem lexicográfica e entre espaços, o nome dos jogadores que erraram a resposta e, desta forma, não passarão para a próxima fase do jogo.
 
-**Exemplo de Entrada**
-
-3
-
-8 4=5
-
-2 5=5
-
-1 3=4
-
-Samuel 2 +
-
-Abner 3 +
-
-Aline 1 *
-
-2
-
-1 2=-1
-
-0 7=7
-
-Luiz 2 -
-
-Absolut 1 +
 
 
-**Exemplo de Saída**
-
-Aline Samuel
-None Shall Pass!
+| **Exemplo de Entrada<br>**                                                                                              |       **Exemplo de Saída**       |
+|-------------------------------------------------------------------------------------------------------------------------|:--------------------------------:|
+| 3<br>8 4=5<br>2 5=5<br>1 3=4<br>Samuel 2 +<br>Abner 3 +<br>Aline 1 *<br>2<br>1 2=-1<br>0 7=7<br>Luiz 2 -<br>Absolut 1 + | Aline Samuel<br>None Shall Pass! |
