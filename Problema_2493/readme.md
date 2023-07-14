@@ -19,16 +19,27 @@ Para cada caso de teste, se todos os jogadores passarem, imprima "You Shall All 
 **Exemplo de Entrada**
 
 3
+
 8 4=5
+
 2 5=5
+
 1 3=4
+
 Samuel 2 +
+
 Abner 3 +
+
 Aline 1 *
+
 2
+
 1 2=-1
+
 0 7=7
+
 Luiz 2 -
+
 Absolut 1 +
 
 
